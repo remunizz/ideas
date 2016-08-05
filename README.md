@@ -1,4 +1,4 @@
 # Ideas
 
-Photo collage site
+Photo collage site  
 Geography game
